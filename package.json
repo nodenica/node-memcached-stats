@@ -4,17 +4,14 @@
     , "version": "0.0.1"
     , "author": "Paulo McNally <paulomcnally@gmail.com>"
     , "keywords": ["memcached", "stats"]
-    , "dependencies": {
-    "jsdom": "0.6.5"
-}
-    , "directories": { "lib": "./lib/imdb" }
+    , "directories": { "lib": "./lib/memcached-stats" }
     , "main": "./index.js"
     , "bugs": {
-    "url":"https://github.com/paulomcnally/imdb-node/issues/new"
+    "url":"https://github.com/paulomcnally/node-memcached-stats/issues/new"
     , "email": "paulomcnally@gmail.com"
 }
     , "repository": {
     "type": "git"
-    , "url": "git://github.com/paulomcnally/imdb-node.git"
+    , "url": "git://github.com/paulomcnally/node-memcached-stats.git"
 }
 }
